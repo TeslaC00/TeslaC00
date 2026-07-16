@@ -36,13 +36,14 @@ Infinite canvas for exploring travel memories.
 📂 **[Repository](https://github.com/TeslaC00/photo-timeline)** • 🌐 **[Live Demo](https://photo-timeline-bice.vercel.app/)**
 
 ---
-
+<!--
 ### 📦 Self-hosted image storage (WIP)
 
 Learning storage systems by building one.
 > A lightweight self-hosted image backup service inspired by object storage systems like S3, built to understand how storage systems work internally rather than relying entirely on managed solutions.
 
 ---
+-->
 <!--
 [![Anurag's GitHub stats](https://github-stats-extended.vercel.app/api?username=anuraghazra)](https://github.com/stats-organization/github-stats-extended)
 -->
